@@ -1,4 +1,4 @@
-# technical_problem_1
+# technical problem
 
 Описание кода
 
